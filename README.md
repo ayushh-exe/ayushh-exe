@@ -92,7 +92,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushh-exe&theme=tokyonight&hide_border=true&stroke=7C3AED&ring=A78BFA&fire=06B6D4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8B8FA8)](https://git.io/streak-stats)
 
-<br/>
+<br>
 
 ![Ayush's GitHub Stats](https://github-readme-stats-eight-nu-63.vercel.app/api?username=ayushh-exe&show_icons=true&theme=tokyonight&hide_border=true&icon_color=A78BFA&title_color=A78BFA&text_color=ffffff)
 
