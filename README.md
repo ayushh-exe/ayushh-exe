@@ -94,7 +94,8 @@
 
 <br/>
 
-![Ayush's GitHub Stats](https://readme-stats.thyvel.com/api?username=ayushh-exe&show_icons=true&theme=tokyonight&hide_border=true&icon_color=A78BFA&title_color=A78BFA&text_color=ffffff)
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushh-exe&show_icons=true&theme=tokyonight&hide_border=true&icon_color=A78BFA&title_color=A78BFA&text_color=ffffff)
+&nbsp;
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushh-exe&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=ffffff)
 
 </div>
