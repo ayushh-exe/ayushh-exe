@@ -110,6 +110,7 @@
 | Machine Learning Specialization | Coursera | Supervised Learning, ML Pipelines, Model Deployment |
 | DevOps Engineering | GEU | CI/CD, Containerisation, Infrastructure Automation |
 
+
 > 🎯 **CGPA 9.0/10** — Top of cohort across 5 semesters &nbsp;|&nbsp; 🏗️ Two full-stack, cloud-integrated projects deployed
 
 ---
