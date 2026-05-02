@@ -90,12 +90,26 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushh-exe&show_icons=true&theme=tokyonight&hide_border=true&icon_color=A78BFA&title_color=A78BFA&text_color=ffffff" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushh-exe&theme=tokyonight&hide_border=true&stroke=7C3AED&ring=A78BFA&fire=06B6D4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8B8FA8)](https://git.io/streak-stats)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushh-exe&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=ffffff" />
+<br/>
+
+<table>
+<tr>
+<td>
+
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushh-exe&show_icons=true&theme=tokyonight&hide_border=true&icon_color=A78BFA&title_color=A78BFA&text_color=ffffff&cache_seconds=1800)
+
+</td>
+<td>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushh-exe&layout=compact&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=ffffff&cache_seconds=1800)
+
+</td>
+</tr>
+</table>
 
 </div>
-
 ---
 
 ## 🏆 Certifications & Achievements
