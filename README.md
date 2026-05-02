@@ -90,7 +90,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushjuyal&theme=tokyonight&hide_border=true&stroke=7C3AED&ring=A78BFA&fire=06B6D4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8B8FA8)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushh-exe&theme=tokyonight&hide_border=true&stroke=7C3AED&ring=A78BFA&fire=06B6D4&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=8B8FA8)](https://git.io/streak-stats)
 
 <br/>
 
