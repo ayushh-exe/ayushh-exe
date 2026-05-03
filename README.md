@@ -2,7 +2,7 @@
 
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ayush%20Juyal&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Undergrad%20%7C%20Backend%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
-
+<br>
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Optimizing+Routes+with+Genetic+Algorithms+%F0%9F%A7%AC;Containerized+%26+Cloud-Native+Architecture+%E2%98%81%EF%B8%8F;9.0+CGPA+%7C+Top+of+Cohort+%F0%9F%8F%86;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 
